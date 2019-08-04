@@ -1,0 +1,10 @@
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:5432
+
+app:
+  telegram-token: "TOKEN_HERE"
+  proxy-url: "s-zg.ru"
+  proxy-port: 322
+  proxy-user: "tgbot"
+  proxy-password: "FOOBAR"
